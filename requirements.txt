@@ -2,6 +2,3 @@ Flask
 Flask-RESTful
 gunicorn
 request
-make_response
-uwsgi
-psycopg2
