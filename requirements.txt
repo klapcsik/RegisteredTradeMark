@@ -2,7 +2,6 @@ Flask
 Flask-RESTful
 gunicorn
 request
-send_file
 make_response
 uwsgi
 psycopg2
