@@ -1,7 +1,7 @@
 Flask
 Flask-RESTful
+gunicorn
 request
-Response
 send_file
 make_response
 uwsgi
