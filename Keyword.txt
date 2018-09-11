@@ -1,4 +1,5 @@
-Or
 Oracle
+Unicode
 Microsoft
-Google
+SAP
+Unicode
